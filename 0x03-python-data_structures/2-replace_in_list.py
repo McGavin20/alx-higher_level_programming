@@ -1,8 +1,10 @@
 #!/usr/bin/python3
 
 def replace_in_list(my_list, idx, element):
-    if idx < 0 or idx > len(my_list) - 1:
+    b = len(my_list)
+    if idx >= b or idx < 0:
         return my_list
-    else:
-        mylist[idx] = element
-	return my_list
+    for m in range(b):
+        if m == idx:
+            my_list[m] = element
+    return my_list
