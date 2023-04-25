@@ -1,24 +1,22 @@
 # The Zen of Python, by Tim Peters
-
-
-Beautiful is better than ugly.
-Explicit is better than implicit.
-Simple is better than complex.
-Complex is better than complicated.
-Flat is better than nested.
-Sparse is better than dense.
-Readability counts.
-Special cases aren't special enough to break the rules.
-Although practicality beats purity.
-Errors should never pass silently.
-Unless explicitly silenced.
-In the face of ambiguity, refuse the temptation to guess.
-There should be one-- and preferably only one --obvious way to do it.
-Although that way may not be obvious at first unless you're Dutch.
-Now is better than never.
-Although never is often better than *right* now.
-If the implementation is hard to explain, it's a bad idea.
-If the implementation is easy to explain, it may be a good idea.
-Namespaces are one honking great idea -- let's do more of those!
-Python - Object-relational mapping
-Python - Object-relational mapping
+ 2
+ 3
+ 4 Beautiful is better than ugly.
+ 5 Explicit is better than implicit.
+ 6 Simple is better than complex.
+ 7 Complex is better than complicated.
+ 8 Flat is better than nested.
+ 9 Sparse is better than dense.
+10 Readability counts.
+11 Special cases aren't special enough to break the rules.
+12 Although practicality beats purity.
+13 Errors should never pass silently.
+14 Unless explicitly silenced.
+15 In the face of ambiguity, refuse the temptation to guess.
+16 There should be one-- and preferably only one --obvious way to do it.
+17 Although that way may not be obvious at first unless you're Dutch.
+18 Now is better than never.
+19 Although never is often better than *right* now.
+20 If the implementation is hard to explain, it's a bad idea.
+21 If the implementation is easy to explain, it may be a good idea.
+22 Namespaces are one honking great idea -- let's do more of those!
